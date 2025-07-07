@@ -4,7 +4,7 @@ export function Body() {
   return (
     <div className="body-container">
       <img
-        src="public\robloxMemePt1-NoBG.png"
+        src="/robloxMemePt1-NoBG.png"
         alt="Roblox Meme"
         className="img-frog w-200"
       />
