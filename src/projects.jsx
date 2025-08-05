@@ -1,6 +1,6 @@
 import { Nav } from "./assets/components/nav/nav";
 import { motion } from "framer-motion";
-import "C:/Users/Kaiden Engle/OneDrive/Documents/GitHub/kaijewl2Devpage/src/assets/components/socialButtons/socialButtons.css";
+import "./assets/components/socialButtons/socialButtons.css";
 
 export default function Projects() {
   // Project data - you can customize these
@@ -9,7 +9,7 @@ export default function Projects() {
       id: 1,
       image: "/scraperDecl.png",
       alt: "Scraper Project",
-      buttonText: "Discord",
+      buttonText: "S.C.A.M.",
       link: "https://github.com/Kaijewl2/ScrapingCraigslistAndMailing",
     },
     {
